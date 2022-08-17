@@ -1,0 +1,6 @@
+[submodule "sc2006-server"]
+	path = sc2006-server
+	url = https://github.com/dualbricks/sc2006-server.git
+[submodule "sc2006-frontend"]
+	path = sc2006-frontend
+	url = https://github.com/dualbricks/sc2006-frontend.git
